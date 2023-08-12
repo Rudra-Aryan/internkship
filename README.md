@@ -1,2 +1,2 @@
-# internkship
+# internship
 internship file
